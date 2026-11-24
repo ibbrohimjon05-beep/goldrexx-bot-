@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+aiogram>=3.4,<4
+python-chess>=1.10
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
